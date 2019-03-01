@@ -1,6 +1,6 @@
-function test($aaa) {
-    Write-Output $aaa "‚Å‚·"
+function test ($bbb) {
+    Write-Output $bbb "‚Å‚·"
 }
 
 $bbb = "‚ ‚ ‚ "
-test($bbb)
+test ($bbb)
